@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ranjanisatha
-- 👀 I’m interested inweb development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning machine learning
 - 😄 Using 0s and 1s to write my life
   
